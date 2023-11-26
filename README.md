@@ -1,6 +1,6 @@
 # Hi There👋 
 
-<img style=”margin: 10px” src="https://github.com/nima-95/nima-95/blob/main/Nima%20Mahani.jpg" alt="banner that says Nima Mahani - Data Scientist">
+<img style=”margin: 10px” src="https://github.com/nima-95/nima-95/blob/main/Nima%20Mahani.jpg" alt=”React” height=”50"/>
 
 ## Introduction
 I am a [Your Role] with a passion for [Your Interests]. Currently [Current Position/Role], I specialize in [Your Expertise].
