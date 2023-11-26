@@ -1,4 +1,4 @@
-Hi There👋 
+# Hi There👋 
 
 <img src="https://github.com/nima-95/nima-95/blob/main/Nima%20Mahani.jpg" alt="banner that says Nima Mahani - Data Scientist">
 
