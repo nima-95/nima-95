@@ -1,6 +1,6 @@
 # Hi There👋 
 
-<img src="https://github.com/nima-95/nima-95#:~:text=1%20minute%20ago-,a.jpg,-Add%20files%20via" alt=”React”>
+<img src="https://github.com/nima-95/nima-95/blob/main/a.jpg">
 
 ## Introduction
 I am a [Your Role] with a passion for [Your Interests]. Currently [Current Position/Role], I specialize in [Your Expertise].
